@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <link a href="style.css" rel="stylesheet">
+<head>
+    <title>Practice Page</title>
+</head>
+
+<body>
+
+<nav>
+        <ul> 
+                <li><a class="hover" href="index.html" >Home</li>
+                <li><a class="hover" href="contact.html">Contact Us</li>
+                <li><a class="hover" href="portfolio.html">Portfolio</li>
+                <li><a class="hover" href="aboutme.html>">About Us</li>
+                
+                
+        </ul>
+    </nav>
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
